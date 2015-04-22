@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Arduino_Project">
+</Property><Property Name="Solution File" Value="C:\Users\Matthew\Documents\Visual Studio 2010\Projects\Productivity Logging Project\Arduino_Project\Arduino_Project.sln">
+</Property><Property Name="Date" Value="Friday, January 16, 2015">
+</Property><Property Name="Time" Value="2:59 AM">
+</Property></Properties><Event ErrorLevel="0" Project="Arduino_Project" Source="Arduino_Project\Arduino_Project.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="Arduino_Project" Source="Arduino_Project\Arduino_Project.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="Arduino_Project.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Arduino_Project.sln" Description="Converted">
+</Event></UpgradeLog>
